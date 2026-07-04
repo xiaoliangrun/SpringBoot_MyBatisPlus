@@ -16,7 +16,7 @@ MySQL - 5.6.35-log : Database - wstro
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`wstro` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
 USE `wstro`;
-
+/*test*/
 
 /*Table structure for table `sys_menu` */
 
